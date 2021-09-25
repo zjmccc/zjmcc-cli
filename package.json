@@ -1,0 +1,11 @@
+{
+  "name": "zjmcc-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node config/dev-config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
